@@ -11,7 +11,7 @@
 ---
 
 ## 🔗 Live Demo
-* **Frontend App:** [View Live Deployment](https://pia-project-two.vercel.app)[cite: 4]
+* **Frontend App:** [View Live Deployment](https://pia-project-two.vercel.app)
 * *Note: The application includes authentication for internal use.*
 
 ---
