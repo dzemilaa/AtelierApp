@@ -22,9 +22,9 @@
 * **Backend:** PHP, Laravel Framework (RESTful API)
 * **Key Features:**
   * Client management (CRUD operations: Add, Edit, Delete clients)
-  * Real-time search and filtering through client lists[cite: 5]
-  * Order tracking (`Narudžbine`)[cite: 5]
-  * Responsive role-based layout (`Klijenti`, `Narudžbine`, `Krojač`)[cite: 5]
+  * Real-time search and filtering through client lists
+  * Order tracking (`Narudžbine`)
+  * Responsive role-based layout (`Klijenti`, `Narudžbine`, `Krojač`)
 
 ---
 
